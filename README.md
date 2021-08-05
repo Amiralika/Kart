@@ -1,16 +1,16 @@
 [
   {
     "متن": "Test",
-    "متن1": "",
-    "متن2": "",
-    "متن3": "",
-    "متن4": "",
-    "متن5": "",
+    "متن1": "T",
+    "متن2": "S",
+    "متن3": "T",
+    "متن4": "D",
+    "متن5": "A",
     "عکس": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/007.jpg",
-    "عکس1": "",
-    "عکس2": "",
-    "عکس3": "",
-    "عکس4": "",
-    "عکس5": ""
+    "عکس1": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/007.jpg",
+    "عکس2": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/007.jpg",
+    "عکس3": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/007.jpg",
+    "عکس4": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/007.jpg",
+    "عکس5": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/007.jpg"
   }
 ]
